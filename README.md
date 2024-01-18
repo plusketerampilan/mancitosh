@@ -2,12 +2,6 @@
 
 Local development `php -S localhost:2024`
 
-## Inspiration
-
-- Daisy UI
-- Flowbite
-- Tailwind CSS
-
 ## Dependencies
 
 - [Bootstrap](https://getbootstrap.com/)
