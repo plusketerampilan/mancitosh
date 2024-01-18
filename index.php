@@ -4,27 +4,35 @@
  */
 $title = 'Beranda';
 
-$lomba_lomba = [
-    'VLOG',
-    'POSTER',
-    'MTQ',
-    'PUISI KANDUNGAN ALQURAN',
-];
-
 /**
  * Layout
  */
-require_once './osim/header.php';
-require_once './osim/hero.php';
-require_once './osim/lomba.php';
+require_once './views/header.php';
+require_once './views/navbar.php';
+require_once './views/home-hero.php';
+require_once './views/home-lomba.php';
+
+$sections = [
+    'Hero section: about, CTA',
+    'Main events',
+    'Reward',
+    'Timeline: registration, TM, main event',
+    'Q&A',
+    'Contact Person: Social media link',
+    'Footer: credits, copyrights'
+];
+
 ?>
 
-<div class="container my-5">
-    <img src="holder.js/1116x628?text=POSTER MANCITOSH" class="img-fluid">
+<div class="container d-flex flex-column gap-5 my-5">
+    <?php foreach ($sections as $section) : ?>
+        <div class="card text-bg-light">
+            <div class="card-body">
+                <p class="card-text text-center"><?= $section ?></p>
+            </div>
+        </div>
+    <?php endforeach; ?>
 </div>
 
 <?php
-require_once './osim/lomba-cards.php';
-require_once './osim/timeline.php';
-require_once './osim/cp.php';
-require_once './osim/footer.php';
+require_once './views/footer.php';
