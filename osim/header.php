@@ -8,6 +8,7 @@
 
     <!-- assets -->
     <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./fonts/bootstrap-icons/bootstrap-icons.min.css">
     <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
