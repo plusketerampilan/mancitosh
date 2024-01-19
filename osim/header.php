@@ -7,8 +7,8 @@
     <meta name="description" content="<?= $description ?? 'Laman resmi Mancitosh MAN 1 Ponorogo' ?>">
 
     <!-- assets -->
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./fonts/bootstrap-icons/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="<?= $url ?>/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= $url ?>/fonts/bootstrap-icons/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="<?= $url ?>/css/style.css">
 </head>
 <body>
