@@ -4,7 +4,7 @@
             <h1 class="py-5 py-xl-0">Pengenalan Mancitosh</h1>
         </div>
         <div class="col-xl-6">
-            <img src="holder.js/540x540?text=Maskot" class="img-fluid">
+            <img src="https://source.unsplash.com/_XTY6lD8jgM/636x636?robot" class="img-fluid">
         </div>
     </div>
 </div>
