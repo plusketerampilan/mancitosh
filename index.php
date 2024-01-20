@@ -38,11 +38,9 @@ require_once './config.php';
 require_once './osim/header.php'; // body ke atas
 require_once './osim/hero.php';
 require_once './osim/lomba.php';
-?>
+require_once './osim/poster.php';
 
-<div class="container my-5">
-    <img src="holder.js/1116x628?text=POSTER MANCITOSH" class="img-fluid">
-</div>
+?>
 
 <?php
 require_once './osim/lomba-cards.php';
