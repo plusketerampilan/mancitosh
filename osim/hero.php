@@ -7,7 +7,7 @@
             paradisematic country, in which roasted parts of sentences fly into your mouth.
         </p>
         <p class="mt-4">
-            <a class="btn btn-primary" href="https://www.froala.com">Download</a>
+            <a class="btn btn-primary" href="#lomba">Lomba</a>
         </p>
     </div>
     <div class="col text-right order-1 order-sm-1 order-md-2">
