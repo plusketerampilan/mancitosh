@@ -1,4 +1,4 @@
-<div class="container my-5">
+<div class="container my-5" id="lomba">
     <div class="row row-cols-xl-4 gy-5">
         <?php foreach ($lomba_lomba as $lomba) : ?>
             <div class="col text-center">
