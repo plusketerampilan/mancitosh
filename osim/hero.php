@@ -1,10 +1,9 @@
 <div class="container">
 <div class="row py-5 d-flex align-items-center">
     <div class="col-12 col-sm-10 col-md-8 col-lg-6 order-2 order-sm-2 order-md-1">
-        <h1>Call to Action</h1>
+        <h1>MANCITOSH</h1>
         <p class="lead">
-            A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a
-            paradisematic country, in which roasted parts of sentences fly into your mouth.
+        MANCITOSH adalah Madrasah Aliyah Negri Competition Information Technology Olimpiade Science, Sosial, Speech (MANCITOSH).
         </p>
         <p class="mt-4">
             <a class="btn btn-primary" href="#lomba">Lomba</a>
