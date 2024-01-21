@@ -8,6 +8,10 @@ Local development `php -S localhost:2024`
 2. Rename menjadi `config.php`
 3. Rubah variabel `$url` dengan alamat aplikasi
 
+```bash
+cp config.sample.php config.php
+```
+
 ## Dependencies
 
 - [Bootstrap](https://getbootstrap.com/)
