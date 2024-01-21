@@ -7,7 +7,7 @@
         <div class="col text-center">
             <img src="https://source.unsplash.com/random/261x147?car" class="img-fluid">
             <p class="mt-1">VLOG</p>
-            <a href="" class="btn btn-primary mt-1">Selengkapnya</a>
+            <a href="au" class="btn btn-primary mt-1">Selengkapnya</a>
         </div>
         <div class="col text-center">
             <img src="https://source.unsplash.com/random/261x147?car" class="img-fluid">
