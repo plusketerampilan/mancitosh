@@ -39,11 +39,4 @@ require_once './osim/header.php'; // body ke atas
 require_once './osim/hero.php';
 require_once './osim/lomba.php';
 require_once './osim/poster.php';
-
-?>
-
-<?php
-require_once './osim/lomba-cards.php';
-require_once './osim/timeline.php';
-require_once './osim/cp.php';
 require_once './osim/footer.php'; // body ke bawah
