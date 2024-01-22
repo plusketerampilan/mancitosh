@@ -6,22 +6,22 @@
         <div class="col text-center">
             <img src="https://source.unsplash.com/random/300x200?car" class="img-fluid">
             <p class="mt-1">VLOG</p>
-            <a href="vlog.php" class="btn btn-primary mt-1">Selengkapnya</a>
+            <a href="<?= $url ?>/vlog.php" class="btn btn-primary mt-1">Selengkapnya</a>
         </div>
         <div class="col text-center">
             <img src="https://source.unsplash.com/random/300x200?car" class="img-fluid">
             <p class="mt-1">POSTER</p>
-            <a href="poster.php" class="btn btn-primary mt-1">Selengkapnya</a>
+            <a href="<?= $url ?>/posterr.php" class="btn btn-primary mt-1">Selengkapnya</a>
         </div>
         <div class="col text-center">
             <img src="https://source.unsplash.com/random/300x200?car" class="img-fluid">
             <p class="mt-1">MTQ</p>
-            <a href="mtq.php" class="btn btn-primary mt-1">Selengkapnya</a>
+            <a href="<?= $url ?>/mtq.php" class="btn btn-primary mt-1">Selengkapnya</a>
         </div>
         <div class="col text-center">
             <img src="https://source.unsplash.com/random/300x200?car" class="img-fluid">
             <p class="mt-1">PUISI KANDUNGAN ALQURAN</p>
-            <a href="puisi-kandungan-alquran.php" class="btn btn-primary mt-1">Selengkapnya</a>
+            <a href="<?= $url ?>/puisi-kandungan-alquran.php" class="btn btn-primary mt-1">Selengkapnya</a>
         </div>    
     </div>
 </div>
